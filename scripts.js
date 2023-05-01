@@ -37,5 +37,3 @@
   }); 
     /* funcionalidad del carrousel de los shows */
 
-
-
